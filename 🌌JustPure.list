@@ -1,6 +1,7 @@
 DOMAIN,imap.gmail.com
 DOMAIN,smtp.gmail.com
 DOMAIN-KEYWORD,notion
+DOMAIN-SUFFIX,github.io
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,imgur
 DOMAIN,imap.yandex.com
