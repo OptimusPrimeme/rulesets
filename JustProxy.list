@@ -1,1 +1,2 @@
-DOMAIN-SUFFIX,googleapis.com
+payload:
+  -DOMAIN-SUFFIX,googleapis.com
