@@ -30,7 +30,7 @@ mode: Rule
 log-level: info
 
 # Clash 的 RESTful API
-external-controller: '127.0.0.1:9090'
+external-controller: '127.0.0.1:6940'
 
 # 您可以将静态网页资源（如 clash-dashboard）放置在一个目录中，clash 将会服务于 `RESTful API/ui`
 # 参数应填写配置目录的相对路径或绝对路径。
@@ -154,7 +154,7 @@ tun:
   enable: true
   stack: gvisor
   dns-hijack:
-    - 198.18.0.2:53
+    - 198.18.0.2:1053
   auto-route: true
   auto-detect-interface: true
 # 1. clash DNS 请求逻辑：
