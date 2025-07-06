@@ -1,3 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,taobao.com
-  - DOMAIN,tp.m0rph.top
+  - AND,((DOMAIN,tp.m0rph.top),(DST-PORT,25625))
