@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,taobao.com
+  - DOMAIN,api-free.deeplx.net
  # - AND,((DOMAIN,tp.m0rph.top),(DST-PORT,25625))
