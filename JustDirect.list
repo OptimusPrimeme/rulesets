@@ -1,5 +1,5 @@
 payload:
   - DOMAIN-SUFFIX,taobao.com
   - DOMAIN,api-free.deeplx.net
- # - AND,((DOMAIN,tp.m0rph.top),(DST-PORT,25625))
+  - AND,((DOMAIN,cft.m0rph.top),(DST-PORT,14491))
   - PROCESS-NAME,qbittorrent.exe
