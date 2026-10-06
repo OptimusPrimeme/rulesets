@@ -1,11 +1,5 @@
 payload:
-  - DOMAIN,imap.gmail.com
-  - DOMAIN,smtp.gmail.com
   - DOMAIN-KEYWORD,notion
-  - DOMAIN-KEYWORD,github
-  - DOMAIN-KEYWORD,githubusercontent
   - DOMAIN-KEYWORD,imgur
-  - DOMAIN,imap.yandex.com
-  - DOMAIN,smtp.yandex.com
   - DOMAIN,swismail.com
   - DOMAIN,hltv.org
